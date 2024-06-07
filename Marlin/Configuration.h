@@ -98,7 +98,7 @@
  //#define E3DTitan
  //#define E3DHemera
  //#define CrealityTitan
- #define DDXExtruderKit
+// #define DDXExtruderKit
  //#define SpriteExtruder
 
 //Stepper09Deg // 0.9 degree per step motor on the extruder - doubles ESteps
